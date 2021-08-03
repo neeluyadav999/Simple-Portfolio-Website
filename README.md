@@ -7,7 +7,7 @@
 
 🔯HTML5 - To make the webpage Structure.<br>
 🔯CSS - To beautify the page.<br>
-🔯JavaScript- To make the page dynamic.
+🔯JavaScript- To make the page dynamic.<br>
 🔯Bootstrap - To add readymade code for beautification.
 
 
