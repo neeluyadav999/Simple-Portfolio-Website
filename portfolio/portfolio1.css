@@ -1,0 +1,126 @@
+body{
+background-color: #6b5b95;
+}
+
+.heading{
+	margin: 5%;
+	padding: 2%;
+	border-radius: 20px;
+	background-color:#a2b9bc ;
+	text-align: center;
+	font-size: 20px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+}
+
+
+.intro{
+	margin: 5%;
+	padding: 2%;
+	background-color:#b2ad7f ;
+	border-radius: 20px;
+	font-size: 25px;
+    text-align: left;
+    box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+}
+
+.education{
+	margin: 5%;
+	border-radius: 20px;
+	background-color:#618685 ;
+	align-content: center;
+	align-items: center;
+	padding: 2%;
+	font-size: 20px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+ 
+
+}
+
+
+.hobbies{
+
+margin: 5%;
+	padding: 2%;
+	border-radius: 20px;
+	background-color:#878f99 ;
+	font-size: 25px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+}
+
+.skills{
+
+margin: 5%;
+	padding: 2%;
+	border-radius: 20px;
+	background-color:#a2b9bc ;
+	font-size: 25px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9)
+
+}
+
+.Lang{
+	margin: 5%;
+	padding: 2%;
+	border-radius: 20px;
+	background-color:#618685 ;
+	font-size: 25px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+}
+
+.Page{
+	margin: 5%;
+	padding: 1%;
+	border-radius: 20px;
+font-size: 20px;
+float: right;
+color: Black;
+align-content: center;
+font-size: 25px;
+box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+}
+
+.tbl{
+	font-size: 25px;
+align-items: center;
+align-content: center;
+padding: 5%;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+
+
+}
+
+
+.Contact{
+
+	margin: 5%;
+	padding:30px;
+	align-items: center;
+	border-radius: 20px;
+	background-color:#a2b9bc;
+	font-size: 18px;
+	box-shadow: 0px 30px 45px rgba(0,0,0,0.9);
+}
+
+img{
+  
+	width:20%;
+	margin-left: 500px;
+	background-color: #b2ad7f;
+}
+
+.img-responsive 
+{
+  height: auto;
+max-width: 20%;
+}
+
+.img-logo{
+	height: 100px;
+	width: 100px;
+}
+
